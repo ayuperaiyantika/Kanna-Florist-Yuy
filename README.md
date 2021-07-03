@@ -21,8 +21,8 @@ Akun 3 email : nursilvaaulia123@gmail.com pass :nursilva
 Akun 4 email : faisal123@gmail.com pass : faisal
 
 # Keterangan lainnya :
-'database' => 'kanna_kel2',
-$config['base_url'] = 'http://localhost/KannaFlorist/';
+1. Nama Database : kanna_kel2
+2. Base URL :'http://localhost/KannaFlorist/';
 
 # Link Presentasi Tugas Besar Teknologi Web:
 https://drive.google.com/file/d/1CFKpYobwTlOUsv3CqxuL34eo4ObFvFAZ/view?usp=sharing
