@@ -18,12 +18,11 @@ Kelas : AIG
 
 # Akun Login Kelompok 2 - Kanna Florist
 
-Akun 1 email : ayuperaiyantika123@gmail.com pass : ayrayanka
-Akun 2 email : nadia430@gmail.com pass : njonghyun
-Akun 3 email : nursilvaaulia123@gmail.com pass :nursilva
-Akun 4 email : faisal123@gmail.com pass : faisal
+1. Akun 1 email : ayuperaiyantika123@gmail.com pass : ayrayanka
+2. Akun 2 email : nadia430@gmail.com pass : njonghyun
+3. Akun 3 email : nursilvaaulia123@gmail.com pass :nursilva
+4. Akun 4 email : faisal123@gmail.com pass : faisal
 
 # Keterangan lainnya :
 1. Nama Database : kanna_kel2
 2. Base URL : http://localhost/KannaFlorist/
-
