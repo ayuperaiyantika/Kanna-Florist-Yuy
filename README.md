@@ -1,7 +1,7 @@
 # AlhamdulillahTubesKannaFlorist_Kel2
 Tugas Besar Teknologi Web Tugas Besar Mata Kuliah Teknologi Web
 
-# Link Presentasi Tugas Besar Teknologi Web:
+# Link Video Presentasi Tugas Besar Teknologi Web:
 https://drive.google.com/file/d/1CFKpYobwTlOUsv3CqxuL34eo4ObFvFAZ/view?usp=sharing
 
 # Deskripsi Tujuan Pembuatan Web Kanna Florist
