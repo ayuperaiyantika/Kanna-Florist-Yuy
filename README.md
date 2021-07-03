@@ -1,6 +1,9 @@
 # AlhamdulillahTubesKannaFlorist_Kel2
 Tugas Besar Teknologi Web Tugas Besar Mata Kuliah Teknologi Web
 
+# Link Presentasi Tugas Besar Teknologi Web:
+https://drive.google.com/file/d/1CFKpYobwTlOUsv3CqxuL34eo4ObFvFAZ/view?usp=sharing
+
 # Deskripsi Tujuan Pembuatan Web Kanna Florist
 1. Media pemasaran produk bunga kering pada toko bunga “Kanna Florist” (Khas Sunda)
 2. Mempermudah proses transaksi pembelian produk yang dapat diakses dari mana saja dan kapan saja tanpa perlu mendatangi toko.
@@ -24,5 +27,3 @@ Akun 4 email : faisal123@gmail.com pass : faisal
 1. Nama Database : kanna_kel2
 2. Base URL : http://localhost/KannaFlorist/
 
-# Link Presentasi Tugas Besar Teknologi Web:
-https://drive.google.com/file/d/1CFKpYobwTlOUsv3CqxuL34eo4ObFvFAZ/view?usp=sharing
