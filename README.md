@@ -22,7 +22,7 @@ Akun 4 email : faisal123@gmail.com pass : faisal
 
 # Keterangan lainnya :
 1. Nama Database : kanna_kel2
-2. Base URL :'http://localhost/KannaFlorist/';
+2. Base URL : http://localhost/KannaFlorist/
 
 # Link Presentasi Tugas Besar Teknologi Web:
 https://drive.google.com/file/d/1CFKpYobwTlOUsv3CqxuL34eo4ObFvFAZ/view?usp=sharing
